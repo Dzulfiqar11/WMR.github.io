@@ -1,0 +1,344 @@
+*,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: white;
+}
+
+.navbar {
+	background-color: grey;
+	width: 100%;
+	height: 100px;
+}
+
+.ul-navbar {
+	background-color: none;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style-type: none;
+}
+
+
+.li-navbar {
+padding: 20px;
+list-style-type: none;
+color: white;
+margin: 10px;
+font-size: 30px;
+
+}
+
+.container-content {
+	background-color: black;
+	height: 40px;
+}
+
+.ha {
+	color: red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: 
+	font-style; 
+}
+
+.container-content1 {
+	display: flex;
+	background-color: 
+	height: 500px;
+	
+
+}
+
+.icbabout {
+	display: flex;
+	width: 1500px;
+	margin-left: 160px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	flex-direction: column;
+	color: black;
+	text-decoration: none;	
+	
+}
+.icbabout:hover {
+    background-color: black;
+    border-radius: 10px;
+    transition: .3s ease-in-out;
+    transition-delay: .3s;
+    color: white;
+}
+
+.icbbio {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	width: 1500px;
+	margin-right: 110px;
+	margin-top: 50px;
+	margin-left: 115px;
+	margin-bottom: 50px;
+	flex-direction: column;
+	color: black;
+	text-decoration: none;
+		
+}
+	
+.icbbio:hover {
+    background-color: black;
+    border-radius: 10px;
+    transition: .3s ease-in-out;
+    transition-delay: .3s;
+    color : white;
+}
+
+.icbalbum {
+	display: flex;
+	width: 1500px;
+	margin-top: 50px;
+	margin-right: 80px;
+	margin-bottom: 50px;
+	flex-direction: column;
+	color: black;
+	text-decoration: none;	
+	
+}
+.icbalbum:hover {
+    background-color: black;
+    border-radius: 10px;
+    transition: .3s ease-in-out;
+    transition-delay: .3s;
+    color: white;
+}
+
+.end-content1 {
+	display: flex;
+	background-color: grey;
+	height: 25px;
+}
+
+.end-content2 {
+	display: flex;
+	background-color: ;
+	width: 100%;
+	justify-content: center;
+
+}
+
+.end-c1 {
+	display: flex;
+	margin-left: 500px;
+	
+}
+
+.next-week {
+	/*background-color: red;*/
+	margin-top: 10px;
+	
+}
+
+.NX {
+    justify-content: center;
+    display: flex;
+}
+
+.content-nx {
+	/*background-color: green;*/
+	display: flex;
+	height: 1000px;
+	border-style: 
+	margin-top: 50px;
+}
+
+.gambar-nx {
+	display: flex;
+	width: 40%;
+	height: 20%;
+	/*background-color: blue;*/
+	border-style: solid;
+	border-radius: 50px;
+	margin-left: 5%;
+
+}
+
+.gambar-lil {
+	width: 30%;
+	height: 60%;
+	margin-left: 5%;
+	margin-top: 7.5%;
+	margin-bottom: %;
+	border-radius: 20px;
+}
+
+.tulisan1{
+	display: flex;
+	margin-top: 20%;
+	margin-left: 5%;
+}
+
+.tulisan1x {
+	margin-top: 20%;
+	color: white;
+
+}
+
+.gambar-nx:hover {
+	background-color: black;
+	transition: .3s ease-in-out;
+    transition-delay: .3s;
+
+
+}
+
+/*.bcbdbcbdbcy*/
+
+.gambar-nx2 {
+	display: flex;
+	width: 40%;
+	height: 20%;
+	/*background-color: blue;*/
+	border-style: solid;
+	border-radius: 50px;
+	margin-top: 25%;
+	margin-left: -
+}
+
+.gambar-eminem {
+	width: 30%;
+	height: 60%;
+	margin-left: 5%;
+	margin-top: 7.5%;
+	margin-bottom: %;
+	border-radius: 20px;
+}
+
+.tulisan2{
+	display: flex;
+	margin-top: 20%;
+	margin-left: 5%;
+}
+
+.tulisan2x {
+	margin-top: 20%;
+	color: white;
+
+}
+
+.gambar-nx2:hover {
+	background-color: black;
+	transition: .3s ease-in-out;
+    transition-delay: .3s;
+}
+.gambar-nx2 {
+	display: flex;
+	width: 40%;
+	height: 20%;
+	/*background-color: blue;*/
+	border-style: solid;
+	border-radius: 50px;
+	margin-top: 20%;
+	margin-left: -41%;
+}
+
+/*.haahahhahhaahahh*/
+
+.gambar-nx4 {
+	display: flex;
+	width: 40%;
+	height: 20%;
+	/*background-color: blue;*/
+	border-style: solid;
+	border-radius: 50px;
+	margin-top: 25%;
+	margin-left: -
+}
+
+/*jdhdhdhdh*/
+
+.gambar-travis {
+	width: 30%;
+	height: 60%;
+	margin-left: 5%;
+	margin-top: 7.5%;
+	margin-bottom: %;
+	border-radius: 20px;
+}
+
+.tulisan3{
+	display: flex;
+	margin-top: 20%;
+	margin-left: 5%;
+}
+
+.tulisan3x {
+	margin-top: 20%;
+	color: white;
+
+}
+
+.gambar-nx3:hover {
+	background-color: black;
+	transition: .3s ease-in-out;
+    transition-delay: .3s;
+}
+.gambar-nx3 {
+	display: flex;
+	width: 40%;
+	height: 20%;
+	/*background-color: blue;*/
+	border-style: solid;
+	border-radius: 50px;
+	margin-top: 40%;
+	margin-left: -41%;
+}
+
+ /*hchchchchchc*/
+
+.penutup {
+	background-color: black;
+	height: 500px;
+	display: flex;
+}
+
+.wmr {
+	height: 40px;
+	background-color: black;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: white;
+}
+
+.wmr-bawah{
+	width: 350px;
+	height: 180px;
+	background-color: black;
+	margin-top: 100px;
+	display: flex;
+	margin-left: -100px;
+	
+
+}
+
+.wmr-bawah1{
+	margin-left: -350px;
+	/*margin-right: 350px;*/
+	background-color: white;
+	margin-top: 380px;
+	background-color: black; 
+	width: 1000px;
+}
+
+
+
+
+
+
+
+
+
+

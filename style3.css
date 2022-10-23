@@ -1,0 +1,137 @@
+*,
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: white;
+}
+
+.navbar2 {
+	background-color: grey;
+	width: 100%;
+	height: 100px;
+}
+
+.ul-navbar2 {
+	background-color: none;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style-type: none;
+}
+
+.li-navbar2 {
+padding: 20px;
+list-style-type: none;
+color: white;
+margin: 10px;
+font-size: 30px;
+
+}
+
+.navbar-about2{
+	background-color: black;
+	width:100%;
+	height: 40px;
+	
+}
+
+.ul12{
+	width:50%;
+	display: flex;
+	height: 40px;
+	align-items: center;
+}
+.li-navbar12 {
+list-style-type: none;
+padding: 2px;
+color: red;
+margin: 3px;
+}
+
+.abcd{
+	color: white;
+	text-decoration: none;
+}
+
+.li-navbar12:hover{
+	background-color: grey;
+	transition: .3s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 3px;
+}
+
+.a122{
+height: 40px;
+width: 100%;
+}
+
+.a122{
+	
+	color: red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.susah2 {
+	/*background-color: blue;*/
+}
+
+.susah12{
+	margin-left: 10px;
+}
+.susah22{
+	margin-left: 10px;
+	/*background-color: red;*/
+	width: 70%;
+}
+.content-bio2{
+	height: 700px;
+}
+
+.isi2{
+	margin-top: 15px;
+	background-color: ;
+	margin-right: 30%;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+.penutup2 {
+	background-color: black;
+	height: 500px;
+	display: flex;
+	margin-top: 20px;
+}
+
+.wmr2 {
+	height: 40px;
+	background-color: black;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: white;
+}
+
+.wmr-bawah2{
+	width: 350px;
+	height: 180px;
+	background-color: black;
+	margin-top: 100px;
+	display: flex;
+	margin-left: -100px;
+	
+
+}
+
+.wmr-bawah2a{
+	margin-left: -350px;
+	/*margin-right: 350px;*/
+	background-color: white;
+	margin-top: 380px;
+	background-color: black; 
+	width: 1000px;
+}
